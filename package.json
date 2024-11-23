@@ -1,0 +1,8 @@
+{
+    "name": "tailwind-css-plugins",
+    "version": "0.0.1",
+    "type": "module",
+    "devDependencies": {
+        "tailwindcss": "^3.4.11",
+    }
+}
